@@ -20,6 +20,16 @@ h1 { /*condensed heading element */
     font-size: 48px;
 }
 
+h2{ /*condensed heading element */
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+h3 { /*condensed heading element */
+    margin-bottom: 10px;
+    text-align: center;
+}
+
 /* removed unnecessary "seo" class */
 
 .header div {
@@ -97,11 +107,6 @@ p {
     color: #ffffff;
 }
 
-h3 { /*condensed heading element */
-    margin-bottom: 10px;
-    text-align: center;
-}
-
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -131,11 +136,6 @@ h3 { /*condensed heading element */
 
 .three-topics img { /* simplified class title and condensed element */
     max-height: 200px;
-}
-
-h2 { /*condensed heading element */
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 footer { /* condensed footer section */

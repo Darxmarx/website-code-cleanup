@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-.header {
+header { /*renamed to semantic element instead of class */
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -32,7 +32,7 @@ h3 { /*condensed heading element */
 
 /* removed unnecessary "seo" class */
 
-.header div {
+nav { /*renamed to semantic element instead of class */
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -42,7 +42,7 @@ h3 { /*condensed heading element */
 
 /* removed unnecessary ul class */
 
-.header div ul li {
+li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -92,17 +92,6 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-topic { /* condensed group of classes into one */
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-topic img { /* condensed group of classes into one */
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
 .three-topics { /* simplified class title and condensed element */
     margin-bottom: 20px;
     padding: 50px;
@@ -114,6 +103,17 @@ p {
 
 .three-topics img { /* simplified class title and condensed element */
     max-height: 200px;
+}
+
+.benefit-topic { /* condensed group of classes into one */
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-topic img { /* condensed group of classes into one */
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
 }
 
 footer { /* condensed footer section */

@@ -6,7 +6,7 @@ Horiseon's pitched website was always functional, but it did not meet appropriat
 
 ## Installation
 
-N/A
+Link to the site: https://darxmarx.github.io/website-code-cleanup/
 
 ## Usage
 

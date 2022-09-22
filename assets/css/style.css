@@ -92,34 +92,12 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit-topic { /* condensed group of classes into one */
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+.benefit-topic img { /* condensed group of classes into one */
     display: block;
     margin: 10px auto;
     max-width: 150px;
